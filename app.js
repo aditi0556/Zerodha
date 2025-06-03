@@ -1,2 +1,2 @@
 console.log("hey!i am aditi");
-console.log("conflict");
+console.log("yes,successfully added");
